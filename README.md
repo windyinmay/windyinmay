@@ -14,6 +14,6 @@
 <h3 align="left">Stats</h3>
 
 <p align="center">
-    <img width=400 src='https://github-readme-stats.vercel.app/api?username=windyinmay&theme=vue-                dark&show_icons=true&hide_border=true&count_private=true' />
+    <img width=400 src='https://github-readme-stats.vercel.app/api?username=windyinmay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
