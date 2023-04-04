@@ -14,13 +14,6 @@
 <h3 align="left">Stats</h3>
 
 <p align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=windyinmay&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"
-        height="165"
-        alt="accountstats"
-    />
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" height="165"
-        alt="toplanguages"
-    />
+    <img width=400 src='https://github-readme-stats.vercel.app/api?username=windyinmay&theme=vue-                dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
