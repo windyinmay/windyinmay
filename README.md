@@ -1,3 +1,5 @@
+![visitors](https://komarev.com/ghpvc/?username=windyinmay&color=green&style=flat-square&label=VISITORS)
+
 <h3 align="center">👋 Hi there! I'm Anh!</h3>
 
 ---
@@ -17,5 +19,3 @@
     <img width=400 src='https://github-readme-stats.vercel.app/api?username=windyinmay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true' />
 </p>
-
-![visitors](https://komarev.com/ghpvc/?username=windyinmay&color=green&style=flat-square&label=VISITORS)
