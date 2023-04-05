@@ -140,6 +140,6 @@ I'm open to discuss and happy to connect
 <a href="https://discordapp.com/users/909793926616084490">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
   
-  quynhanh#3530 @windyinmay
+ quynhanh#3530  @windyinmay
   
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="90" />
