@@ -134,6 +134,12 @@ Learning new things is on progress...<img src="https://media.giphy.com/media/WUl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&langs_count=6&layout=compact&theme=dracula)
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-I'm happy to connect 
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+ 
+I'm open to discuss and happy to connect
+  
+<a href="https://discordapp.com/users/909793926616084490">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+  
+  quynhanh#3530 @windyinmay
+  
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="90" />
