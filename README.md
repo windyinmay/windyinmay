@@ -13,7 +13,7 @@
 
 ---
 ### **Welcome to my Github** <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
-<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>A passionate fullstack developer enjoying to tackle new challenges every day.
+<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>A passionate fullstack developer enjoying to tackle new challenges every day. 🫡
 
 <img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>Continuing to Master of Science to gain a deep knowledge of human factors engineering and AI-based methods for interaction. :smiley: 
 </div>
