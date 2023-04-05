@@ -131,7 +131,7 @@ Learning new things is on progress...<img src="https://media.giphy.com/media/WUl
 
 ![Windyinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=windyinmay&show_icons=true&theme=dracula&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&langs_count=6&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&langs_count=6&layout=compact&theme=dracula)
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 I'm happy to connect 
