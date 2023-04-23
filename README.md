@@ -47,6 +47,8 @@
   - [Full Stack Open 2022](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/76ac64f72f1a99c3044e932a75c6aed5)
   - [Full Stack Open 2023 - TypeScript](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/0ba464340879a2d7ec18a3e8092230a1)
   
+</details>
+  
 
 <br/>
 
