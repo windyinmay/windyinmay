@@ -1,0 +1,45 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # runs every hour
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout repo
+      - uses: actions/checkout@v3
+
+      # 2️⃣ Set up Node.js (needed for some scripts if you use them)
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 3️⃣ Update README.md dynamically
+      - name: Update README.md
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          echo "# Hi, I'm Windyinmay 👋" > README.md
+
+          echo "## GitHub Stats" >> README.md
+          echo "![Windyinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=windyinmay&show_icons=true&theme=rgruvbox_light&count_private=true&include_all_commits=true&token=$GH_TOKEN)" >> README.md
+
+          echo "## Top Languages" >> README.md
+          echo "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&layout=compact&theme=rgruvbox_light&count_private=true&token=$GH_TOKEN)" >> README.md
+
+          echo "## Contributions" >> README.md
+          echo "![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=windyinmay&show_icons=true&count_private=true&theme=rgruvbox_light&include_all_commits=true&token=$GH_TOKEN)" >> README.md
+
+      # 4️⃣ Commit and push changes
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
+          git push
