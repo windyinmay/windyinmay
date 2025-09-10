@@ -130,8 +130,6 @@ Learning new things is on progress...<img src="https://media.giphy.com/media/WUl
 
 <p align="center">
 
-![Windyinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=windyinmay&show_icons=true&theme=rgruvbox_light&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=windyinmay&layout=compact&theme=rgruvbox_light&count_private=true)
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
