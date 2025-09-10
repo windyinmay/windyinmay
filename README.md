@@ -13,9 +13,9 @@
 
 ---
 ### **Welcome to my Github** <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
-<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>A passionate fullstack developer enjoying to tackle new challenges every day. 🫡
+<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>A passionate full-stack developer enjoying tackling new challenges every day. 🫡
 
-<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>Continuing to Master of Science to gain a deep knowledge of human factors engineering and AI-based methods for interaction. :smiley: 
+<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>Continuing to MA to gain a deep knowledge of human factors engineering and AI-based methods for interaction. :smiley: 
 </div>
 
 <br/>
@@ -25,9 +25,8 @@
 &nbsp;
 
 - ML in Information Technology and Health Tech
-- CS50’s Introduction to Computer Science. - Harvard CS50
 - Cyber Security and Securing Software
-- Data Analysis
+- Visual Communication Design & Visual Hierarchy
 </details>
 
 
@@ -64,7 +63,6 @@
 ### Front-end Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -85,8 +83,6 @@
 
 ### Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Fly.io](https://img.shields.io/badge/fly.io-%23430098.svg?style=for-the-badge&logo=fly.io&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
@@ -132,7 +128,7 @@ Learning new things is on progress...<img src="https://media.giphy.com/media/WUl
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
  
-I'm open to discuss and happy to connect
+I'm open to discussing and would be happy to connect
   
 <a href="https://discordapp.com/users/909793926616084490">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
